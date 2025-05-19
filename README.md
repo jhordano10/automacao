@@ -103,3 +103,6 @@ Para dúvidas, sugestões ou parcerias, entre em contato:
 - [@membro2](https://github.com/membro2)
 
 ---
+
+### ODS
+Adicionar selo do ods que entendemos que seja aplicado
