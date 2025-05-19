@@ -64,7 +64,7 @@ Este projeto investiga a aplicação de tecnologias de automação residencial e
 - Mosquitto (MQTT Broker)
 - Linux (Debian-based)
 - Plataforma Web (HTML/CSS/JS)
-- link para um conteiner docker para subir a plataforma completa
+- link para um conteiner docker para subir a plataforma completa (COLOCAR NOS CONTEÚDOS DOS CÓDIGOS DO GITHUB)
 - link para funcionalidades importantes (tuya-ac-controler, zabbix, testes de ping, https, planta baixa, previsão do tempo, HACS, tags nfc, dashboard)
 
 ---
