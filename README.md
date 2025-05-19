@@ -46,6 +46,8 @@
 
 Este projeto investiga a aplicação de tecnologias de automação residencial em uma instituição pública de ensino, com foco na eficiência energética e otimização de processos operacionais. O estudo é conduzido no IFRO – Campus Porto Velho Zona Norte, utilizando sensores, microcontroladores e sistemas embarcados para controlar iluminação e climatização com base na presença de pessoas.
 
+COLOCAR AQUI UM VÍDEO DEMONSTRATIVO DO YOUTUBE
+
 ---
 
 ## Hardwares e Softwares Utilizados
