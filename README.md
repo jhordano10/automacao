@@ -2,7 +2,7 @@
   <img src="link_para_logo_do_projeto.png" alt="Logo do Projeto" height="200">
 </p>
 
-<h1 align="center">Automação Residencial em Instituição Pública</h1>
+<h1 align="center">Automação de dispositivos de baixa potência elétrica em Instituição Pública</h1>
 
 <p align="center">
   <strong>Projeto de pesquisa no IFRO - Campus Porto Velho Zona Norte</strong>
@@ -56,6 +56,7 @@ Este projeto investiga a aplicação de tecnologias de automação residencial e
 - Relés
 - DHT11/DHT22
 - LDR (Sensor de luminosidade)
+- Tuya
 
 **Software**
 - Python
@@ -63,6 +64,8 @@ Este projeto investiga a aplicação de tecnologias de automação residencial e
 - Mosquitto (MQTT Broker)
 - Linux (Debian-based)
 - Plataforma Web (HTML/CSS/JS)
+- link para um conteiner docker para subir a plataforma completa
+- link para funcionalidades importantes (tuya-ac-controler, zabbix, testes de ping, https, planta baixa, previsão do tempo, HACS, tags nfc, dashboard)
 
 ---
 
