@@ -106,7 +106,7 @@ Professor do IFRO – Campus Porto Velho Zona Norte
 
 
 #### Renato Almeida de Oliveira – Vice-coordenador do Projeto  
-Professor do IFRO – Campus Porto Velho Zona Norte
+Professor do IFRO – Campus Porto Velho Zona Norte  
 **Currículo Lattes:** [ http://lattes.cnpq.br/7149083667194944]( http://lattes.cnpq.br/7149083667194944)  
 **GitHub:** [@usuario](https://github.com/usuario)
 
