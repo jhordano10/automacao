@@ -105,11 +105,16 @@ Professor do IFRO – Campus Porto Velho Zona Norte
 **GitHub:** [@jhordano10](https://github.com/jhordano10)
 
 
-### Nome do Integrante – Função no Projeto  
-Breve descrição do integrante (ex: Estudante do curso Técnico em Informática / Pesquisador / Bolsista PIBIC etc.)  
-**Currículo Lattes:** [link_do_lattes](#)  
+#### Renato Almeida de Oliveira – Vice-coordenador do Projeto  
+Professor do IFRO – Campus Porto Velho Zona Norte
+**Currículo Lattes:** [ http://lattes.cnpq.br/7149083667194944]( http://lattes.cnpq.br/7149083667194944)  
 **GitHub:** [@usuario](https://github.com/usuario)
 
+
+### Ryan Ribeiro Martins – Bolsista PIBIC  
+Aluno do Curso Superior de Tecnologia em Redes de Computadores - Turma 2024  
+**Currículo Lattes:** [http://lattes.cnpq.br/2888175208835434](http://lattes.cnpq.br/2888175208835434)  
+**GitHub:** [@usuario](https://github.com/usuario)
 
 ### Nome do Integrante – Função no Projeto  
 Breve descrição do integrante  
