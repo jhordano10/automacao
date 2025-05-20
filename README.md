@@ -99,7 +99,10 @@ Para dúvidas, sugestões ou parcerias, entre em contato:
 
 ## Membros do Projeto
 
-- [@jmalacarne](https://github.com/jmalacarne)
+- Jhordano Malacarne Bravim - Coordenador do projeto
+Professor do IFRO Campus Porto Velho Zona Norte
+Currículo Lattes: [http://lattes.cnpq.br/3055136844130366](http://lattes.cnpq.br/3055136844130366)
+[@jhordano10](https://github.com/jhordano10)
 - [@membro1](https://github.com/membro1)
 - [@membro2](https://github.com/membro2)
 
