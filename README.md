@@ -110,28 +110,32 @@ Professor do IFRO – Campus Porto Velho Zona Norte
 **Currículo Lattes:** [ http://lattes.cnpq.br/7149083667194944]( http://lattes.cnpq.br/7149083667194944)  
 **GitHub:** [@usuario](https://github.com/usuario)
 
-
-### Ryan Ribeiro Martins – Bolsista PIBIC  
+#### Ryan Ribeiro Martins – Bolsista PIBIC  
 Aluno do Curso Superior de Tecnologia em Redes de Computadores - Turma 2024  
 **Currículo Lattes:** [http://lattes.cnpq.br/2888175208835434](http://lattes.cnpq.br/2888175208835434)  
 **GitHub:** [@usuario](https://github.com/usuario)
 
-### Nome do Integrante – Função no Projeto  
+#### Laís Cristina Domingues – Colaboradora  
+Aluna do Curso Superior de Tecnologia em Redes de Computadores - Turma 2024  
+**Currículo Lattes:** [https://lattes.cnpq.br/5609618093963685](https://lattes.cnpq.br/5609618093963685)  
+**GitHub:** [@usuario](https://github.com/usuario)
+
+#### Deydi Santos Silva – Colaboradora  
+Aluna do Curso Superior de Tecnologia em Redes de Computadores - Turma 2024  
+**Currículo Lattes:** [http://lattes.cnpq.br/4244136672815038](http://lattes.cnpq.br/4244136672815038)  
+**GitHub:** [@usuario](https://github.com/usuario)
+
+#### Nome do Integrante – Função no Projeto  
 Breve descrição do integrante  
 **Currículo Lattes:** [link_do_lattes](#)  
 **GitHub:** [@usuario](https://github.com/usuario)
 
----
+#### Nome do Integrante – Função no Projeto  
+Breve descrição do integrante  
+**Currículo Lattes:** [link_do_lattes](#)  
+**GitHub:** [@usuario](https://github.com/usuario)
 
-- Jhordano Malacarne Bravim - Coordenador do projeto
 
-Professor do IFRO Campus Porto Velho Zona Norte
-
-Currículo Lattes: [http://lattes.cnpq.br/3055136844130366](http://lattes.cnpq.br/3055136844130366)
-
-[@jhordano10](https://github.com/jhordano10)
-- [@membro1](https://github.com/membro1)
-- [@membro2](https://github.com/membro2)
 
 ---
 
