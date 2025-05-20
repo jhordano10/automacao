@@ -99,19 +99,17 @@ Para dúvidas, sugestões ou parcerias, entre em contato:
 
 ## Membros do Projeto
 
-### Jhordano Malacarne Bravim – Coordenador do Projeto  
+#### Jhordano Malacarne Bravim – Coordenador do Projeto  
 Professor do IFRO – Campus Porto Velho Zona Norte  
 **Currículo Lattes:** [http://lattes.cnpq.br/3055136844130366](http://lattes.cnpq.br/3055136844130366)  
 **GitHub:** [@jhordano10](https://github.com/jhordano10)
 
----
 
 ### Nome do Integrante – Função no Projeto  
 Breve descrição do integrante (ex: Estudante do curso Técnico em Informática / Pesquisador / Bolsista PIBIC etc.)  
 **Currículo Lattes:** [link_do_lattes](#)  
 **GitHub:** [@usuario](https://github.com/usuario)
 
----
 
 ### Nome do Integrante – Função no Projeto  
 Breve descrição do integrante  
