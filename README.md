@@ -13,8 +13,12 @@
 ## Tecnologias Utilizadas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tuya-ff4800?style=for-the-badge&logo=tuya&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wi--Fi-black?style=for-the-badge&logo=wi-fi&logoColor=white />
+  <img src="https://img.shields.io/badge/NFC-002E5F?style=for-the-badge&logo=NFC&logoColor=white />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-00979D?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white" />
