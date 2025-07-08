@@ -113,12 +113,12 @@ Professor do IFRO – Campus Porto Velho Zona Norte
 #### Ryan Ribeiro Martins – Bolsista PIBIC  
 Aluno do Curso Superior de Tecnologia em Redes de Computadores - Turma 2024  
 **Currículo Lattes:** [http://lattes.cnpq.br/2888175208835434](http://lattes.cnpq.br/2888175208835434)  
-**GitHub:** [@usuario](https://github.com/usuario)
+**GitHub:** [@usuario](https://github.com/Ryan-Martins1007)
 
 #### Laís Cristina Domingues – Colaboradora  
 Aluna do Curso Superior de Tecnologia em Redes de Computadores - Turma 2024  
 **Currículo Lattes:** [https://lattes.cnpq.br/5609618093963685](https://lattes.cnpq.br/5609618093963685)  
-**GitHub:** [@usuario](https://github.com/usuario)
+**GitHub:** [@usuario](https://github.com/lasmarqus)
 
 #### Deydi Santos Silva – Colaboradora  
 Aluna do Curso Superior de Tecnologia em Redes de Computadores - Turma 2024  
