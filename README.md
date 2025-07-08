@@ -131,7 +131,7 @@ Aluna do Curso Superior de Tecnologia em Redes de Computadores - Turma 2024
 <h3>Este projeto contribui com os seguintes Objetivos de Desenvolvimento Sustentável (ODS):</h3>
 
 <p>
-  <img src="https://sdgs.un.org/sites/default/files/2023-09/E_SDG_Icons-04.jpg" alt="ODS 4 - Educação de qualidade" width="100" />
+  <img src="https://redirect.gtec.net.br/images/ods/goal-4/GOAL_4_PRIMARY_ICON/GOAL_4_SVG/TheGlobalGoals_Icons_Color_Goal_4.svg" alt="ODS 4 - Educação de qualidade" width="100" />
   <img src="https://sdgs.un.org/sites/default/files/2023-09/E_SDG_Icons-09.jpg" alt="ODS 9 - Indústria, inovação e infraestrutura" width="100" />
   <img src="https://sdgs.un.org/sites/default/files/2023-09/E_SDG_Icons-13.jpg" alt="ODS 13 - Ação contra a mudança global do clima" width="100" />
 </p>
