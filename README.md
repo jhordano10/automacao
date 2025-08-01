@@ -45,7 +45,7 @@
 
 ## Apresentação
 
-Este projeto investiga a aplicação de tecnologias de automação residencial em uma instituição pública de ensino, com foco na eficiência energética e otimização de processos operacionais. O estudo é conduzido no IFRO – Campus Porto Velho Zona Norte, utilizando sensores, microcontroladores e sistemas embarcados para controlar iluminação e climatização com base na presença de pessoas.
+Este projeto investiga a aplicação de tecnologias de automação residencial em uma instituição pública de ensino, com foco na eficiência energética e otimização de processos operacionais. O estudo é conduzido no IFRO – Campus Porto Velho Zona Norte, utilizando microcontroladores e sistemas embarcados para controlar iluminação, climatização e controle de acesso.
 
 COLOCAR AQUI UM VÍDEO DEMONSTRATIVO DO YOUTUBE
 
@@ -54,19 +54,24 @@ COLOCAR AQUI UM VÍDEO DEMONSTRATIVO DO YOUTUBE
 ## Hardwares e Softwares Utilizados
 
 **Hardware**
-- ESP32
-- Sensor PIR
+- Interruptores (plataforma Tuya)
+- Controles remoto infravermelho universal  (plataforma Tuya)
 - Relés
-- DHT11/DHT22
-- LDR (Sensor de luminosidade)
-- Tuya
+- Fechaduras magnéticas
+- Fonte de alimentação 12v
+- Botão de impulso NF (normalmente fechado)
+- TAGs NFC
 
 **Software**
-- Python
-- Node-RED
-- Mosquitto (MQTT Broker)
-- Linux (Debian-based)
-- Plataforma Web (HTML/CSS/JS)
+- Home Assistant sob plataforma de Máquina Virtual
+- Add-ons Home Assistant:
+  - File editor
+  - Let's Encrypt
+  - NGINX SSL Proxy
+  - Zabbix Agent
+Integrações:
+  - Tuya
+  - Ping
 - link para um conteiner docker para subir a plataforma completa (COLOCAR NOS CONTEÚDOS DOS CÓDIGOS DO GITHUB)
 - link para funcionalidades importantes (tuya-ac-controler, zabbix, testes de ping, https, planta baixa, previsão do tempo, HACS, tags nfc, dashboard)
 
@@ -82,18 +87,14 @@ Aqui você pode adicionar um diagrama (em imagem ou link para um arquivo `.drawi
 
 ---
 ## Documentos
-- Lista de documentos produzidos
-- Artigos
-- etc
-
----
-
-## Contatos
-
-Para dúvidas, sugestões ou parcerias, entre em contato:
-
-- **Coordenador:** [@jmalacarne](https://github.com/jmalacarne)
-- **E-mail institucional:** exemplo@ifro.edu.br
+- Normas de Utilização dos Laboratórios de Informática do Campus Porto Velho Zona Note
+- Instalação e configuração do Home Assistant em plataforma de Virtualização Proxmox
+- Instalação e configuração do Home Assistant sob HTTPs
+- Instalação e configuração do Agente Zabbix para Home Assistant
+- Integração da plataforma Tuya ao Home Assistant
+- Verificação de conectividade periódica (ping)
+- Automação por horário
+- Configuração de TAGs NFC
 
 ---
 
@@ -103,11 +104,12 @@ Para dúvidas, sugestões ou parcerias, entre em contato:
 Professor do IFRO – Campus Porto Velho Zona Norte  
 **Currículo Lattes:** [http://lattes.cnpq.br/3055136844130366](http://lattes.cnpq.br/3055136844130366)  
 **GitHub:** [@jhordano10](https://github.com/jhordano10)
+**E-mail:** [jhordano@ifro.edu.br](mailto:jhordano@ifro.edu.br)
 
 
 #### Renato Almeida de Oliveira – Vice-coordenador do Projeto  
 Professor do IFRO – Campus Porto Velho Zona Norte  
-**Currículo Lattes:** [ http://lattes.cnpq.br/7149083667194944]( http://lattes.cnpq.br/7149083667194944)  
+**Currículo Lattes:** [ http://lattes.cnpq.br/7149083667194944](http://lattes.cnpq.br/7149083667194944)  
 **GitHub:** [@usuario](https://github.com/usuario)
 
 #### Ryan Ribeiro Martins – Bolsista PIBIC  
