@@ -95,6 +95,7 @@ Aqui você pode adicionar um diagrama (em imagem ou link para um arquivo `.drawi
 - Verificação de conectividade periódica (ping)
 - Automação por horário
 - Configuração de TAGs NFC
+-  <a href="tutoriais/configuracao_controle_arcondicionado.md">Configuração do controle do ar-condicionado da plataforma Tuya para ser registrado no Home Assistant</a>
 
 ---
 
